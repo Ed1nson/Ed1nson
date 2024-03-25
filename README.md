@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ed1nson
+- 👋 Hi, I’m @EddKings
 - 👀 I’m interested in Development of Web and Mobile Apps and AI
 - 🌱 I’m currently learning Kotlin, Python, Nodejs, Angular, Java, React
 - 💞️ I’m looking to collaborate on innovative projects that help the world

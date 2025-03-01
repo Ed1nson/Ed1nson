@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EddKings
 - 👀 I’m interested in Development of Web and Mobile Apps and AI
-- 🌱 I’m currently learning Kotlin, Python, Nodejs, Angular, Java, React, Nestjs, Typescript, Javascript, C++
+- 🌱 I’m currently learning Kotlin, Python, Nodejs, Angular, Java, React, Nestjs, Typescript, Javascript, C++, Docker
 - 💞️ I’m looking to collaborate on innovative projects that help the world
 - 📫 How to reach me edhinsonreyes@gmail.com
 
